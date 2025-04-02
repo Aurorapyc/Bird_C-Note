@@ -192,7 +192,7 @@ int main(void)
 
 ```c
 #include <stdio.h>
-int main(void)
+int main()
 {//(2进制)位操作
  //& 按位与
  //| 按位或
